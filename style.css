@@ -1,4 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Crimson Text", serif;
+}
+
+
 .footer-bg{
     background-color:#0a0d14 ;
     
 }
+
+.footerMenu-ft-color{
+color: lightgrey;
+
+}
+
+.nav-link:hover{
+    color: red !important;
+    }
+
+/* .nav-link::before{
+    content: "";
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    width:0;
+    height: 2px;
+    background-color: #009970;
+    visibility: hidden;
+    transition: 0.3s ease-in-out;
+
+}
+.nav-link:hover::before {
+    width: 100%;
+    visibility: visible;
+} */
