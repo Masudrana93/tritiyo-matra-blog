@@ -46,6 +46,10 @@ color: lightgrey;
 .sub-heading-color{
     color:#949cb0 ;
 }
+.headingLine{
+    
+    width: 100px;
+}
 
 /* .nav-link::before{
     content: "";
