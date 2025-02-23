@@ -38,6 +38,15 @@ color: lightgrey;
 
 }
 
+/* Home Page Section One  */
+
+.bodyBg-color{
+    background-color: #0A0A0A;
+}
+.sub-heading-color{
+    color:#949cb0 ;
+}
+
 /* .nav-link::before{
     content: "";
     position: absolute;
