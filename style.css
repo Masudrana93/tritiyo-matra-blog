@@ -2,7 +2,11 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    
+}
+body{
     font-family: "Crimson Text", serif;
+    font-size: 14px;
 }
 
 
@@ -51,7 +55,7 @@ color: lightgrey;
     width: 100px;
 }
 
-/* owl carousel css */
+/* home page owl carousel slider css */
 #owl-demo .item{
     margin: 3px;
   }
